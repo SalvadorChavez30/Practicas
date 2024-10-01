@@ -1,0 +1,4 @@
+Nombre: David
+Edad: 20
+Carrera: Informatica
+Matricula: 10056427
